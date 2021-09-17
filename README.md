@@ -118,6 +118,5 @@ Literature
 
 ![image](https://user-images.githubusercontent.com/61595808/133786000-0552d4e1-bdaf-478f-a5c7-0d6eccbaf5b7.png)
 
-                                               EDA KAŞ
-                                               Innovation in Application of Renewable Energy Source
-                                               Kielce 12.04.2021
+
+#InnovationinApplicationofRenewableEnergySourceinTurkey 
