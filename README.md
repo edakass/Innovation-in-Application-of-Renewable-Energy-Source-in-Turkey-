@@ -3,9 +3,11 @@
 Innovation in Application of Renewable Energy Source in Turkey
 
 Outline
-\n
+
 1-What is a renewable energy source?
+
 2-Renewable energy sources
+
 3-Turkey and renewable energy
 4-What is innovation
 5-Examples of new initiatives in the energy sector from Turkey
