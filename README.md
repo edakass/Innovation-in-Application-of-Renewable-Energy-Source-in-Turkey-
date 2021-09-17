@@ -1,6 +1,12 @@
 # Innovation-in-Application-of-Renewable-Energy-Source-in-Turkey-
 
 Innovation in Application of Renewable Energy Source in Turkey
+                                                                  
+![image](https://user-images.githubusercontent.com/61595808/133787449-540873d2-017b-4385-a4f2-d2a709c2690b.png)
+
+![image](https://user-images.githubusercontent.com/61595808/133787532-8c82fc4c-410e-4eb8-96b6-e50f31f384f4.png)
+
+
 
 Outline
 
@@ -9,10 +15,15 @@ Outline
 2-Renewable energy sources
 
 3-Turkey and renewable energy
+
 4-What is innovation
+
 5-Examples of new initiatives in the energy sector from Turkey
+
 6-Control questions
+
 7-Business idea
+
 8-Literature
 
 Renewable energy has an extremely important place in terms of reducing the dependence of countries on the outside by meeting their energy needs with domestic resources, ensuring sustainable energy use by diversifying resources and minimizing environmental damages as a result of energy consumption.
@@ -29,34 +40,43 @@ Turkey has the opportunity to benefit from all renewable energy sources due to i
 Examples of new initiatives in the energy sector from Turkey
 
 *Reengen
+
 *HyperCFD
+
 *Delphisonic
+
 *Cosa
 
-Reengen
+
+-->Reengen
 Industrial Internet application for energy use optimization of industrial facilities. Reengen is a Turkish initiative operating in the internet of things and focused on the field of energy.
 
 ![image](https://user-images.githubusercontent.com/61595808/133785585-74ee0c40-9141-4bd8-933b-b7d291a1e0d1.png)
 
 Reengen Energy IoT Platform monitors the energy of a thousand old moments, detects rated consumptions and malfunctions, creates alarms, and fines the hall, saves energy. It also makes invoice management; chooses the most suitable tariffs for its customers. It does this by using machine learning and artificial intelligence algorithms in addition to such virtual reality methods.
 
-HyperCFD: 
+-->HyperCFD
 
 HyperCFD (Fertinaz Software Ltd.) is a start-up company located in Teknopark Istanbul which is one of the largest R&D centers in Turkey.
 Our main focus is to develop a cloud service that provides accurate short term forecasts for wind farms. It runs WRF simulations coupled with turbulent wind flow solvers based on OpenFOAM. 
 Additionally, we provide CFD consultancy in naval hydrodynamics including complex multiphysics problems such as multiphase ship resistance computation and underwater acoustic prediction.
 A connected cloud computing service to calculate 24-hour production forecasts of wind power plants with high accuracy.
 
-Delphisonic
+-->Delphisonic
  Industry internet application for predictive maintenance of wind turbines
 Delphisonic has been active in the development, production, and sales of hardware and software for industrial measurement technology. The main areas of application are in measurement data acquisition and analysis, quality assurance, test bench automation, vibration measurement, remote monitoring, mobile measurement data acquisition as well as laboratory data acquisition and automation. Delphisonic products are being used in many different industries and branches. Our customer base includes companies involved in process engineering, mechanical engineering, the chemical and pharmaceutical industries, and power engineering by following;
+
 -Railway Industry
+
 -Industrial Applications
+
 -Marine Industry
+
 -Wind Turbine
+
 -AirCraft
 
-Cosa
+-->Cosa
 ThermoStat application for managing home energy consumption to save energy (Nest market for Turkey)
 Cosa combi boiler is a smart room thermostat that manages your radiator and air conditioner according to your preferences, provides both comfort and an average of 37% savings with its smart features, and can also be managed from the pocket when desired. 
 
@@ -98,18 +118,6 @@ Literature
 
 ![image](https://user-images.githubusercontent.com/61595808/133786000-0552d4e1-bdaf-478f-a5c7-0d6eccbaf5b7.png)
 
-
-
-
-
-
-
-
-
-
-
-		
-    
-                               EDA KAŞ
-                               Innovation in Application of Renewable Energy Source
-                               Kielce 12.04.2021
+                                               EDA KAŞ
+                                               Innovation in Application of Renewable Energy Source
+                                               Kielce 12.04.2021
