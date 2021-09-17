@@ -3,7 +3,7 @@
 Innovation in Application of Renewable Energy Source in Turkey
 
 Outline
-/n
+\n
 1-What is a renewable energy source?
 2-Renewable energy sources
 3-Turkey and renewable energy
